@@ -1,0 +1,31 @@
+# LaTeX temp files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.toc
+*.lof
+*.lot
+*.blg
+*.bbl
+*.bcf
+*.run.xml
+*-blx.bib
+*-blx.aux
+*-blx.bbl
+
+# LaTeX build output
+*.pdf
+*.dvi
+*.ps
+
+# LaTeX editor temp files
+*.bak
+*.swp
+*~
+
+# Build directories
+_build/
+_out/
