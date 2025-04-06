@@ -1,6 +1,6 @@
 # AltaCV, yet another LaTeX CV/Résumé class
 
-v1.1.4 (27 July 2018), by LianTze Lim (liantze@gmail.com)
+v1.4 (6 Apr 2025), by Shunsum Lau (shunsumlau@qq.com)
 
 (Thanks to [Nur](https://github.com/nurh) for the name.)
 
