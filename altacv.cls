@@ -1,6 +1,5 @@
 %%%%%%%%%%%%%%%%%
-% This is altacv.cls (v1.1.4, 27 July 2018) written by
-% LianTze Lim (liantze@gmail.com).
+% This is altacv.cls v1.4 written by Shunsum Lau (shunsumlau@qq.com).
 %
 %% It may be distributed and/or modified under the
 %% conditions of the LaTeX Project Public License, either version 1.3
@@ -12,8 +11,8 @@
 %%%%%%%%%%%%%%%%
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
 %% v1.4: Detect TL2018 to handle accented characters in class information
-\@ifl@t@r\fmtversion{2018/04/01}{\UseRawInputEncoding}{}
-\ProvidesClass{altacv}[2018/07/27 AltaCV v1.1.4, yet another alternative class for a résumé/curriculum vitae.]
+\@ifl@t@r\fmtversion{2025/04/01}{\UseRawInputEncoding}{}
+\ProvidesClass{altacv}[2025/04/01 AltaCV v1.4, yet another alternative class for a résumé/curriculum vitae.]
 
 %% v1.1: Optionally load academicons
 \newif\if@academicons
